@@ -1,2 +1,2 @@
-print(good);
-print(very goodl);
+print(good!);
+print(very goodl!);
