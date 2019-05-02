@@ -1,0 +1,2 @@
+print(good);
+print(very goodl);
