@@ -1,2 +1,2 @@
 print(sound.good);
-print (so so ss1 ss2);
+print (so so);
